@@ -1,0 +1,3 @@
+The project was very fun to do because it allowed us to work on something that we are passionate about. The challenges
+we faced were trying to implement different stats into our code and into our visualization. Overall I spent about 8-10
+hours. It was interesting how the visualizations answered our questions.
